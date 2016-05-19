@@ -18,6 +18,7 @@
 ### On Call
 
 * Are employees expected to be on call?
+* If employers are expected to be on call, is a device provided or compensated?
 
 ## Compensation
 
