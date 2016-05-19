@@ -6,7 +6,6 @@
 
 * Can employees work outside of the office ("work from home")?
 * Are there any restrictions on when employees can work outside the office?
-
 * Do employees each their own office?
 * Are there partitions or space between each employee's workspace?
 
