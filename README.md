@@ -78,7 +78,9 @@
 
 ## Diversity
 
+* Does &lt;Company X&gt; value diversity? If so, how do employees individually and the organization broadly demonstrate this?
 * What are you doing to ensure diverse teams?
+* What resources are available to provide safe spaces for people in the organization?
 
 ## Successful Characteristics
 
