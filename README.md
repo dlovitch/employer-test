@@ -72,8 +72,8 @@
 * What are the biggest challenges facing the team/org/company?
 * Where are the biggest opportunities right now?
 * If you had a magic wand and could change anything about your org, what would you change?
-** Variant: If you had an infinite amount of money & the CTO's job, what would you do?
-** Variant: If you could improve 3 things about your org, what would you improve?
+  * Variant: If you had an infinite amount of money & the CTO's job, what would you do?
+  * Variant: If you could improve 3 things about your org, what would you improve?
 * What challenges and opportunities will the person you hire for this role encounter in their first year?
 
 ## Diversity
