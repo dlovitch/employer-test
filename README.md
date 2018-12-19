@@ -84,7 +84,7 @@
 
 ## Successful Characteristics
 
-### Understanding Successful
+### Understanding Success
 * How might &lt;role being considered for&gt; help with the org's challenges and opportunities?
 * Imagine it's a year from now, and you're thinking "I'm so glad we hired &lt;Your Name Here&gt;". What are the top 3 things I did that made you glad you hired me?
 * Who is currently making important contributions to your organization? What qualities do they have that are adding such value?
